@@ -16,6 +16,16 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: 'StudentSetu | Centralized & Verified Student Records',
   description: 'A centralized, evidence-aware, and appropriately verified student activity and development record.',
+  icons: {
+    icon: [
+      { url: '/favicon.ico?v=6' },
+      { url: '/favicon.png?v=6', sizes: '32x32', type: 'image/png' },
+      { url: '/icon.png?v=6', sizes: '512x512', type: 'image/png' },
+    ],
+    apple: [
+      { url: '/apple-icon.png?v=6' },
+    ],
+  },
 };
 
 export default function RootLayout({

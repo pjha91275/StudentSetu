@@ -188,7 +188,7 @@ StudentSetu/
 │   └── seed.ts                    # Complete scenario seeding (Users, Depts, Activities, Projects)
 ├── public/
 │   ├── logo.png                   # Official StudentSetu brand insignia
-│   ├── icon.png                   # Transparent 512x512 emblem favicon (Google/YouTube-style)
+│   ├── icon.png                   # High-resolution 512x512 squircle emblem favicon
 │   ├── favicon.ico                # Multi-resolution browser icon (16x16 to 256x256)
 │   └── uploads/                   # Local filesystem storage directory for evidence uploads
 ├── src/

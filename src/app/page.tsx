@@ -49,9 +49,9 @@ export default function LandingPage() {
       {/* SECTION 1 — NAVBAR */}
       <header className={`sticky top-0 z-40 w-full transition-all duration-200 ${scrolled ? 'bg-white/80 backdrop-blur-md border-b border-slate-200 shadow-sm' : 'bg-transparent'}`}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-          <div className="flex items-center space-x-2.5">
-            <img src="/logo.png" alt="StudentSetu Logo" className="w-8 h-8 rounded-lg object-contain shadow-sm bg-white" />
-            <span className="font-bold text-sm sm:text-base text-slate-900 tracking-tight">
+          <div className="flex items-center space-x-3">
+            <img src="/icon.png" alt="StudentSetu Logo" className="w-9 h-9 sm:w-10 sm:h-10 rounded-xl object-contain shadow-sm" />
+            <span className="font-bold text-base sm:text-lg text-slate-900 tracking-tight">
               StudentSetu
             </span>
           </div>

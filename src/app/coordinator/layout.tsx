@@ -37,7 +37,7 @@ export default async function CoordinatorLayout({ children }: LayoutProps) {
         <div className="flex flex-col">
           {/* Header */}
           <div className="p-6 border-b border-indigo-900 flex items-center space-x-3">
-            <img src="/logo.png" alt="StudentSetu Logo" className="w-8 h-8 rounded-lg object-contain bg-white p-0.5" />
+            <img src="/icon.png" alt="StudentSetu Logo" className="w-9 h-9 rounded-xl object-contain shadow-sm ring-1 ring-cyan-500/30" />
             <div>
               <span className="font-bold text-sm leading-tight block">StudentSetu</span>
               <span className="text-xs text-indigo-300">Coordinator Portal</span>
