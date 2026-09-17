@@ -1,4 +1,4 @@
-// src/app/layout.tsx
+// src/app/layout.tsx - StudentSetu Root Layout
 import type { Metadata } from 'next';
 import { Geist, Geist_Mono } from 'next/font/google';
 import './globals.css';
