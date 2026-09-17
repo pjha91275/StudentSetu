@@ -263,7 +263,7 @@ StudentSetu aligns with national academic frameworks and research benchmarks:
 
 <div align="center">
 
-**StudentSetu (स्टूडेंट सेतु)** — *Capture Once. Classify Correctly. Verify Where Required. Reuse Everywhere.*
+**StudentSetu (स्टूडेंट सेतु)** — *Capture Once. Classify Correctly. Verify Where Required. Reuse Everywhere.* 
 
 Made with ❤️ by **Team Samadhan** — Department of Computer Engineering, TCET Mumbai
 
