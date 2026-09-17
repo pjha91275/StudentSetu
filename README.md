@@ -14,11 +14,11 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Ready-336791?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 [![Recharts](https://img.shields.io/badge/Recharts-3.10.1-22c55e?style=for-the-badge)](https://recharts.org/)
 [![Lucide Icons](https://img.shields.io/badge/Lucide_Icons-1.31.0-orange?style=for-the-badge)](https://lucide.dev/)
-[![Live Demo](https://img.shields.io/badge/Live_Deployment-Vercel-success?style=for-the-badge&logo=vercel)](https://student-setu-iota.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Deployment-Vercel-success?style=for-the-badge&logo=vercel)](https://studentsetu.vercel.app)
 
 ---
 
-**🌐 Live Production:** [https://student-setu-iota.vercel.app](https://student-setu-iota.vercel.app) | **📂 Repository:** [GitHub](https://github.com/pjha91275/SIH_2026)  
+**🌐 Live Production:** [https://studentsetu.vercel.app](https://studentsetu.vercel.app) | **📂 Repository:** [GitHub](https://github.com/pjha91275/StudentSetu)  
 **👥 Team:** Team Samadhan | **🏛️ College:** Thakur College of Engineering and Technology (TCET), Mumbai  
 **🎓 Department:** Computer Engineering (COMP) | **🏆 Event:** SIH 2026 Internal College Hackathon  
 **🎯 Problem Statement:** **SIH25093** *(Centralised Digital Platform for Comprehensive Student Activity Record in HEIs)*  
